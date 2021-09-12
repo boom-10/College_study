@@ -1,0 +1,4 @@
+﻿  源.cpp
+D:\大一下\c++\课上实验\实验4\CD\源.cpp(85,13): warning C4326: “main”的返回类型应为“int”而非“void”
+源.obj : error LNK2019: 无法解析的外部符号 "public: __thiscall CDPlayer::CDPlayer(void)" (??0CDPlayer@@QAE@XZ)，函数 _main 中引用了该符号
+D:\大一下\c++\课上实验\实验4\CD\Debug\CD.exe : fatal error LNK1120: 1 个无法解析的外部命令

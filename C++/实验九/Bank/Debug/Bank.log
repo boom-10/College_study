@@ -1,0 +1,3 @@
+﻿  源.cpp
+D:\大一下\c++\课上实验\实验九\Bank\源.cpp(115,52): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  Bank.vcxproj -> D:\大一下\c++\课上实验\实验九\Bank\Debug\Bank.exe

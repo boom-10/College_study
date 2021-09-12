@@ -1,0 +1,5 @@
+﻿  源.cpp
+D:\大一下\c++\课上实验\实验5\Circle\源.cpp(43): warning C4715: “drawCircle”: 不是所有的控件路径都返回值
+D:\大一下\c++\课上实验\实验5\Circle\源.cpp(51): warning C4715: “drawRectangle”: 不是所有的控件路径都返回值
+D:\大一下\c++\课上实验\实验5\Circle\源.cpp(29): warning C4715: “getTwoPoints”: 不是所有的控件路径都返回值
+  Circle.vcxproj -> D:\大一下\c++\课上实验\实验5\Circle\x64\Debug\Circle.exe

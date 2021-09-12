@@ -1,0 +1,5 @@
+﻿  源.cpp
+D:\大一下\c++\课上实验\实验5\Revenue\源.cpp(38,71): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+D:\大一下\c++\课上实验\实验5\Revenue\源.cpp(44,79): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+D:\大一下\c++\课上实验\实验5\Revenue\源.cpp(47,71): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+  Revenue.vcxproj -> D:\大一下\c++\课上实验\实验5\Revenue\x64\Debug\Revenue.exe

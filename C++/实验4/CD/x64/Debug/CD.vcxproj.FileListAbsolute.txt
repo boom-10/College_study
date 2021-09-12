@@ -1,0 +1,2 @@
+D:\大一下\c++\课上实验\实验4\CD\x64\Debug\CD.exe
+D:\大一下\c++\课上实验\实验4\CD\x64\Debug\CD.pdb

@@ -1,0 +1,2 @@
+D:\大一下\c++\课上实验\实验5\Revenue\x64\Debug\Revenue.exe
+D:\大一下\c++\课上实验\实验5\Revenue\x64\Debug\Revenue.pdb

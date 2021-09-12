@@ -1,0 +1,2 @@
+D:\大一下\c++\课上实验\实验6\Holiday\x64\Debug\Holiday.exe
+D:\大一下\c++\课上实验\实验6\Holiday\x64\Debug\Holiday.pdb

@@ -1,0 +1,2 @@
+D:\大一下\c++\课上实验\实验7\ParkManager\Debug\ParkManager.exe
+D:\大一下\c++\课上实验\实验7\ParkManager\Debug\ParkManager.pdb

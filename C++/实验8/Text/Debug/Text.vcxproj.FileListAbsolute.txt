@@ -1,0 +1,2 @@
+D:\大一下\c++\课上实验\实验8\Text\Debug\Text.exe
+D:\大一下\c++\课上实验\实验8\Text\Debug\Text.pdb

@@ -1,0 +1,3 @@
+﻿  源.cpp
+D:\大一下\c++\课上实验\实验3\Date\源.cpp(94,13): warning C4326: “main”的返回类型应为“int”而非“void”
+  Date.vcxproj -> D:\大一下\c++\课上实验\实验3\Date\Debug\Date.exe

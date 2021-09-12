@@ -1,0 +1,2 @@
+D:\大一下\c++\课上实验\实验3\Point\x64\Debug\Point.exe
+D:\大一下\c++\课上实验\实验3\Point\x64\Debug\Point.pdb

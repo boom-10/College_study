@@ -1,0 +1,2 @@
+D:\大一下\c++\课上实验\实验10\Shape\x64\Debug\Shape.exe
+D:\大一下\c++\课上实验\实验10\Shape\x64\Debug\Shape.pdb

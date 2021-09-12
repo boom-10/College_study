@@ -1,0 +1,4 @@
+﻿  源.cpp
+D:\大一下\c++\课上实验\实验8\Operater\源.cpp(236,13): warning C4326: “main”的返回类型应为“int”而非“void”
+D:\大一下\c++\课上实验\实验8\Operater\源.cpp(227): warning C4172: 返回局部变量或临时变量的地址: max
+  Operater.vcxproj -> D:\大一下\c++\课上实验\实验8\Operater\Debug\Operater.exe
